@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(mistyRose,bisque, lightCoral);
+    color: indianred;
+  
+}
+button{
+    width: 30%;
+    height: 10%;
+    font-size: medium;
+    border-color: indianred;
+    box-sizing: border-box;
+    color: bisque;
+    background-color: indianred;
+    font-weight: 90%;
+
+}
+.container{
+    border-radius: 55px 180px 55px;
+    
+    height: 60%;
+    width: 65%;
+    color: indianred;
+    font-weight: 900;
+    font-size: xx-large;
+    text-align: center;
+    background: white;
+    margin-left: 25%;
+    margin-top: 15%;
+}
